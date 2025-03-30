@@ -8,8 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
-title                    : "Your Name / Site Title"
+site_theme               : "Attilio's home page"
+site_subtitle            : "A personal website"
+title                    : "Attilio Lavecchia / Attilio's home page"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
